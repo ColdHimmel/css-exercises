@@ -4,6 +4,12 @@
   width: 400px;
   height: 300px;
   position:relative;
+  left: 50%;
+  /* correct method
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  */
 }
 
 .box {
@@ -13,7 +19,7 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
-  display:flex;
+  display:flexbox;
   position: relative;
   top: 35%;
   left: 35%;
