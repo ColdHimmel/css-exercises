@@ -1,0 +1,19 @@
+.odd-ones{
+    background-color: rgb(247, 38, 101);
+    font: Verdana,sans-serif,"DejaVu Sans";
+    color: white;
+}
+#element2{
+    color: rgb(85, 85, 235);
+    font-size: 36px;
+}
+body{
+    background-color: rgb(36, 35, 35);
+}
+.font-adjusted{
+    font-size: 24px;
+}
+#element4{
+    font-weight: bold;
+    background-color: rgb(89, 247, 102);
+}
