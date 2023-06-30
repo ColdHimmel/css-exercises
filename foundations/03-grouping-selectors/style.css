@@ -1,0 +1,13 @@
+.button1, .button2{
+border-width: 2px;
+font-size: 28px;
+margin: 10px;
+font:sans-serif,Helvetica,"Times New Roman";
+}
+.button1{
+    color: white;
+    background-color: rgb(0, 0, 0);  
+}
+.button2{
+    background-color: yellow;
+}
