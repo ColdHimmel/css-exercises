@@ -1,10 +1,17 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  background:rgb(17, 17, 102);
+  color:white;
+  text-align: center;
+}
+.plants{
+  display:flex;
 }
 
 img {
   width: 100px;
   height: 100px;
+
 }
 
 .title {
